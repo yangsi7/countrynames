@@ -17,9 +17,6 @@ FAIL:
   - THE CHENNAL ISLES
   - Other
   - undetermined
-  - Africa
-  - central america
-  - southern america
   - N/A
   # - na -> namibia
   - n a
@@ -31,6 +28,30 @@ FAIL:
   - not specified
   - non specified
   - stateless
+R_EMEA:
+  - emea
+  - Europe Middle East & African
+  - Europe Middle East & Africa (EMEA)
+  - Europe Middle East and Africa
+  - Europe Middle East and Africa (EMEA)
+R_APAC:
+  - apac
+  - Asia Pacific
+  - Asia-Pacific
+R_SEASIA:
+  - south east asia
+C_AFRICA:
+  - Africa
+C_ASIA:
+  - Asia
+C_AMERICA:
+  - Americas
+R_CAMERICA:
+  - central america
+R_SAMERICA:
+  - southern america
+R_NAMERICA:
+  - north america
 ZZ:
   - Global
   - Worldwide
