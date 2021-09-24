@@ -37,31 +37,21 @@ R_EMEA:
 R_APAC:
   - apac
   - Asia Pacific
-  - Asia-Pacific (APAC)
-  - the Asia Pacific
-  - the apac
+  - Asia-Pacific
 R_SEASIA:
   - south east asia
-  - South East Asia (SEA)
 C_AFRICA:
   - Africa
 C_ASIA:
   - Asia
 C_AMERICA:
   - Americas
-  - The Americas
-C_OCEANIA:
-  - Oceania
 R_CAMERICA:
   - central america
 R_SAMERICA:
   - southern america
-  - south america
-R_LAMERICA:
-  - Latin America
 R_NAMERICA:
   - north america
-  - northern america
 ZZ:
   - Global
   - Worldwide
@@ -4301,7 +4291,6 @@ CD:
   - কঙ্গো  -কিনশাসা
   - ਕਾਂਗੋ   - ਕਿੰਸ਼ਾਸਾ
   - Emetab Congo   - Kinshasa
-  - Democratic Republic of Congo (DRC)
   - کۆنگۆ کینشاسا
   - Конго (Киншаса)
   - DR Congo
@@ -5435,8 +5424,6 @@ CN:
   - Cine
   - Chnese
   - China/Chine
-  - People's Republic of China (PRC)
-  - Mainland China
   - Caina, Sin
   - Cina
   - Chinese
@@ -5550,7 +5537,6 @@ CN:
   - Tsáina
   - An tSín
   - Macao SAR, China
-  - Mainland China Region
 CO:
   - ਕੋਲੰਬੀਆ
   - Kɔlɔ́mbía
@@ -7864,7 +7850,6 @@ ET:
   - Ʉhabéeshi
 EU:
   - European Union
-  - European Union Countries
   - European Union (28)
   - Europäische Union
   - THE EUROPEAN UNION
@@ -8691,7 +8676,6 @@ GB:
   - England and Wales
   - England & Wales
   - England/United Kingdom
-  - United Kingdom (UK)
   - British English
   - Englishwoman
   - England
@@ -11054,7 +11038,6 @@ HR:
   - كرواتيا
   - Hrvatska
   - Republic of Croatia
-  - Croatia (ABC) 
   - Croat
   - Croatian
   - CROATIA (HRVATSKA)
@@ -15613,7 +15596,6 @@ ME:
   - मोंटेनेग्रो
   - Μαυροβούνιο
   - Montenegro
-  - Montenegro (ABM)
   - Montenegrin
   - ਮੋਂਟੇਨੇਗਰੋ
   - Черногория
@@ -20698,7 +20680,6 @@ RS:
   - ಸೆರ್ಬಿಯಾ
   - Sérvia
   - Serbian
-  - Serbia (ABSE)
   - Belgrade
   - Serb
   - Сербія
@@ -21798,7 +21779,6 @@ SI:
   - สโลวีเนีย
   - An tSlóivéin
   - Slovenia
-  - Slovenia (ABS)
   - Slovenian
   - Slovenie
   - ସ୍ଲୋଭେନିଆ
@@ -24561,7 +24541,6 @@ TV:
 TW:
   - ਤਾਇਵਾਨ
   - ṭaywan
-  - Taiwan Area
   - Taiwan nutome
   - તાઇવાન
   - Orílẹ́ède Taiwani
@@ -25027,10 +25006,8 @@ US:
   - សហរដ្ឋអាមេរិក
   - Usono
   - WDM
+  - AMERICA
   - United States Citizen
-  - United States (U.S)
-  - United States (USA)
-  - United States (U.S.A)
   - American
   - DELAWARE, U.S.A.
   - ARIZONA, U.S.A.
@@ -25157,12 +25134,6 @@ US:
   - Amerikas Savienotās Valstis
   - L  -Istati Uniti
   - Ameriki
-  - The United States
-  - U.S. 
-  - U.S.A
-  - United States of America (U.S.)
-  - United States of America (U.S.A)
-  - United States of America (USA)
   - United States of America
   - ཡུ་ཨེས་ཨེ
   - አሜሪካ
